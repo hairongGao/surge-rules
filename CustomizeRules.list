@@ -1,0 +1,8 @@
+// 通用部分
+DOMAIN-KEYWORD,kc,DIRECT
+DOMAIN-SUFFIX,gs-robot.com,GS-OFFICE
+
+// macOS（BlueStacks 客户端）
+PROCESS-NAME,BlueStacks,Others
+
+//iOS
